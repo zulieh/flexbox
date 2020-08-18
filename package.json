@@ -1,0 +1,14 @@
+{
+  "name": "photo",
+  "version": "1.0.0",
+  "description": "Your all-in-one booking app",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Zulieh",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
